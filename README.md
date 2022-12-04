@@ -5,6 +5,7 @@ Olá! Aqui quem fala é o Marco!!
 - 🌱 Estudando JavaScript, HTML e CSS um pouco de Python e Java, porém focando em Front-end.
 - 📫 Contato: marco.antonio.alvares@hotmail.com
 - ❤️ espero que gostem do meu git e achem o que estejam procurando 😇
+
 -->
 
 
