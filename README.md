@@ -2,7 +2,7 @@ Olá! Aqui quem fala é o Marco!!
 
 
 - 💻 Atualmente estou a procura de uma primeira experiência profissional
-- 🌱 Estudando JavaScript, HTML e CSS um pouco de Python e Java, porém focando em Front-end.
+- 🌱 Estudando Java um pouco de Python, porém focando em Java.
 - 📫 Contato: marco.antonio.alvares@hotmail.com
 - ❤️ espero que gostem do meu git e achem o que estejam procurando 😇
 
