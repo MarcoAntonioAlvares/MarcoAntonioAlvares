@@ -2,9 +2,9 @@ Olá! Aqui quem fala é o Marco!!
 
 
 - 💻 Atualmente estou a procura de uma primeira experiência profissional
-- 🌱 Estudando Java um pouco de Python, porém focando em Java.
+- 🌱 Meu foco é me especializar em Java.
 - 📫 Contato: marco.antonio.alvares@hotmail.com
-- ❤️ espero que gostem do meu git e achem o que estejam procurando 😇
+- ❤️ espero que gostem do meu github e achem o que estejam procurando 😇
 
 -->
 <div align="center">
