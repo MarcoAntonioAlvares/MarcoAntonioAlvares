@@ -2,7 +2,7 @@ Olá! Aqui quem fala é o Marco!!
 
 
 - 💻 Atualmente estou a procura de uma primeira experiência profissional
-- 🌱 Meu foco é me especializar em Java.
+- 🌱 Meu foco é me especializar em Javascript com Typescript, Node e Angular.
 - 📫 Contato: marco.antonio.alvares@hotmail.com
 - ❤️ espero que gostem do meu github e achem o que estejam procurando 😇
 
